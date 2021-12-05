@@ -1,0 +1,4 @@
+LIBRARY source
+
+EXPORTS
+    GetFilterTable
